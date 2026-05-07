@@ -11,8 +11,8 @@ Execrises from Helsinki MOOC
 | part03 | 32 | 32 | 100% ✅ |
 | part04 | 28 | 31 | 90%  |
 | part05 | 16 | 17 | 94%  |
-| part06 | 9 | 13 | 69%  |
+| part06 | 10 | 13 | 76%  |
 | part07 | 0 | 8 | 0%  |
 
-**Total: 119 / 172 (69%)**
+**Total: 120 / 172 (69%)**
 
