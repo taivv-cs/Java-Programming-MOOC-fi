@@ -6,6 +6,6 @@ public class Squared {
         Scanner scanner = new Scanner(System.in);
 
         int num = Integer.valueOf(scanner.nextLine());
-        System.out.println(num * num);
+        System.out.println(num * num); // Comment to display progress
     }
 }
